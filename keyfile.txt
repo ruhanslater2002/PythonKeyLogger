@@ -1,0 +1,1 @@
+test[Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.shift][Key.shift][Key.shift][Key.shift][Key.shift][Key.shift][Key.shift][Key.shift][Key.shift]Password123[Key.enter]trtrrrrr
